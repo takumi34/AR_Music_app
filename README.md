@@ -19,7 +19,7 @@ ARkitを使ってSwiftで作ります。　　
 
 #### 現在の進捗　　
 <img src="https://user-images.githubusercontent.com/34294333/38087004-76ab4d0a-3391-11e8-98b7-66ca729822f3.gif" width="320px">  
-衝突処理が上手くいかないです...
+衝突処理が上手くいかないです...あと落ちるのが早すぎます...
 
 
 
